@@ -1,7 +1,16 @@
 body{
     background: black;
-    color: greenyellow;
-    /*height: 800px;
-    width: 800px;*/
+    color: rgb(0, 255, 0);
     word-spacing: 9px;
+}
+
+
+header {
+    border-bottom: solid 2px rgb(150, 35, 24);
+    padding: 40px;
+    font-size:34px;
+}
+
+h2{
+    margin: 38px;
 }
