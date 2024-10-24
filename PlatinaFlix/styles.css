@@ -6,11 +6,17 @@ body{
 
 
 header {
-    border-bottom: solid 2px rgb(150, 35, 24);
+    border-bottom: solid 2px rgb(0,150, 136);
     padding: 40px;
     font-size:34px;
 }
 
 h2{
     margin: 38px;
+}
+
+section {
+    padding-bottom:15px;
+    color: rgb(150, 35, 24);
+    background:rgb(159, 49, 235);
 }
