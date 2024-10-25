@@ -11,14 +11,21 @@ header {
     font-size:34px;
 }
 
-h2{
+.Tc{
     margin: 38px;
 }
 
-section {
+.Mo {
     padding-bottom:15px;
     color: rgb(159, 49, 235);
     background:rgb(48, 43, 39);
+    display: flex;
+    justify-content: center;
+}
+
+.Rh{
+    display:flex;
+    justify-content: center;
 }
 
 /*rgb(150, 35, 24))*/
