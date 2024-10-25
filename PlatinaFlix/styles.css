@@ -29,4 +29,9 @@ header {
     justify-content: center;
 }
 
+
+.v{
+    display:flex;
+}
+
 /*rgb(150, 35, 24))*/
