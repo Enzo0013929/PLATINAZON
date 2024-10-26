@@ -30,9 +30,19 @@ header {
     justify-content: center;
 }
 
-
-.v{
-    display:flex;
+img{
+    gap: 15px;
+    height: 180px;
+    margin-left: 50px;
 }
 
-/*rgb(150, 35, 24))*/
+.v{
+    overflow-x: auto;
+    display: flex;
+}
+
+.Nb{
+    background: rgba(28, 1, 1, 0.911);
+}
+
+/*rgb(150, 35, 24)*/
