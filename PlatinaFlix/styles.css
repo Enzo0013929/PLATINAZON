@@ -42,7 +42,15 @@ img{
 }
 
 .Nb{
+    padding-left: 8px;
     background: rgba(28, 1, 1, 0.911);
 }
 
+.Zr{
+    display: flex;
+    gap: 8px;
+    padding-left: 10px;
+}
+
+/*rgb(150, 35, 24)*/
 /*rgb(150, 35, 24)*/
