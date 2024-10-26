@@ -2,7 +2,8 @@ body{
     background: black;
     color: rgb(0, 255, 0);
     word-spacing: 9px;
-    font-family: "Jacquard 24", system-ui;
+    font-family: "Sorts Mill Goudy", serif;
+    font-style: italic;
 }
 
 
