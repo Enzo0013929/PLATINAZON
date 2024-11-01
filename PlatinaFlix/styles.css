@@ -34,7 +34,7 @@ header {
     justify-content: center;
 }
 
-.-Pd img{
+.Nb img{
     gap: 15px;
     height: 180px;
     margin-left: 50px;
@@ -47,7 +47,7 @@ header {
     border: 2px solid lightseagreen;
 }
 
-.Nb{
+.-Pd{
     padding-left: 25px;
     background: rgba(28, 1, 1, 0.911);
     overflow-x: auto;
