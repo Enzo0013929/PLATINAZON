@@ -59,3 +59,13 @@ header {
     gap: 8px;
     padding-left: 10px;
 }
+
+.Kr{
+    border-bottom: solid 2px rgb(0,150, 136);
+    display: flex;
+}
+
+.Kr img{
+    height: 75px;
+    translate: 900px; 
+}
