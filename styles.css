@@ -12,7 +12,6 @@ body{
 
 
 header {
-   /* border-bottom: solid 2px rgb(0,150, 136); */
     padding: 40px;
     font-size:34px;
 }
@@ -40,6 +39,10 @@ header {
     margin-left: 50px;
     opacity: 0.6    ;
 }  
+
+.Nb h2{
+    padding-left: 12px;
+}
 
 .-Pd img:hover{
     opacity: 1.0;
